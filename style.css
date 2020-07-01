@@ -1,0 +1,22 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+h1{
+    font-size: 50px;
+    border: 10px;
+}
+.name-color{
+    color: green;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+    
+}
+.half-width img{
+    width: 100%;
+}
